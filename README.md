@@ -1,3 +1,3 @@
-# dblitt99.github.io
+# dblitt.github.io
 
 ## A place to host static projects.
